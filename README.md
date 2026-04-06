@@ -10,6 +10,8 @@ To deeply understand the fundamental mechanics of neural networks, **this projec
 
 Through systematic hyperparameter tuning and extensive logging, this project achieved a **~55% test accuracy**, a highly competitive result for a pure MLP on this complex dataset.
 
+You can download needed dataset via https://pan.baidu.com/s/19QFv1cK1WocOxe9M5vXe0g?pwd=xatm 
+
 ## 🚀 Key Highlights for Resume / Portfolios
 * **Systematic Ablation Studies:** Conducted strictly controlled experiments across 6 dimensions: Learning Rate, Batch Size, Network Depth vs. Width, Dropout, Weight Decay, and Batch Normalization.
 * **Deep Error Analysis:** Investigated the failure modes of MLPs on spatial data, proving empirically why the destruction of 2D topology leads to confusion among structurally similar classes (e.g., needle-leaf species).
